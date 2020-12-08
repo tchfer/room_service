@@ -8,7 +8,7 @@
 		<version>2.4.0</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.jrdutra.crud.saladereuniao</groupId>
+	<groupId>com.tchfer.crud.saladereuniao</groupId>
 	<artifactId>salareuniao</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>salareuniao</name>

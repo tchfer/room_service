@@ -1,9 +1,9 @@
-package com.jrdutra.crud.saladereuniao.salareuniao.controller;
+package com.tchfer.crud.saladereuniao.salareuniao.controller;
 
 
-import com.jrdutra.crud.saladereuniao.salareuniao.exceptions.ResourceNotFoundException;
-import com.jrdutra.crud.saladereuniao.salareuniao.model.Room;
-import com.jrdutra.crud.saladereuniao.salareuniao.repository.RoomRepository;
+import com.tchfer.crud.saladereuniao.salareuniao.exceptions.ResourceNotFoundException;
+import com.tchfer.crud.saladereuniao.salareuniao.model.Room;
+import com.tchfer.crud.saladereuniao.salareuniao.repository.RoomRepository;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;

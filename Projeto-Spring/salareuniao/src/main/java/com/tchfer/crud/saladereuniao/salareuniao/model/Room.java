@@ -1,4 +1,4 @@
-package com.jrdutra.crud.saladereuniao.salareuniao.model;
+package com.tchfer.crud.saladereuniao.salareuniao.model;
 
 
 import javax.persistence.Column;
